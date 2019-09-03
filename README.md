@@ -7,7 +7,7 @@ This script will install privoxy and set it to accept connections only to your I
 If you want to allow access to everyone please comment out the last line in /etc/privoxy/config
 
 # Usage
-curl -O https://raw.githubusercontent.com/techroy23/AutoPrivoxy/master/AutoPrivoxy.sh
+curl -O https://raw.githubusercontent.com/Jeypi04/AutoPrivoxy/master/AutoPrivoxy.sh
 
 chmod +x AutoPrivoxy.sh
 
