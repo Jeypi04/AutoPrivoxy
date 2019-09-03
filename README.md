@@ -15,14 +15,11 @@ chmod +x AutoPrivoxy.sh
 # Compatibility
 The script supports these OS and architectures:
 
-i386	amd64
-Arch Linux	grey_question	grey_question
-CentOS 7	grey_question	grey_question
-Debian 8	white_check_mark	white_check_mark
-Debian 9	white_check_mark	white_check_mark
-Debian 10	white_check_mark	white_check_mark
-Fedora 27	grey_question	grey_question
-Fedora 28	grey_question	grey_question
-Ubuntu 16.04	white_check_mark	white_check_mark
-Ubuntu 18.04	white_check_mark	white_check_mark
-Ubuntu 19.04	white_check_mark	white_check_mark
+
+Ubuntu 16
+Ubuntu 17
+Ubuntu 18
+
+Debian 8
+Debian 9
+Debian 10
